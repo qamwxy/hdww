@@ -4,7 +4,7 @@ Requirements: CUDA 12.6, Python 3.12, Telegram Bot, torch, opencv-python, ultral
 
 To set this up
 1. Download all the requirements
-2. Place loader.py and n.py in the same folder
+2. flet create hwdd | put the .py files in it
 3. Open loader.py in any code editor
 4. Copy file path of "n.py" and paste it to 20th line between the quotation marks
 5. Save the loader.py and open n.py in any code editor
