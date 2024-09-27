@@ -1,4 +1,4 @@
-# hdww
+# HDWW
 Note: This requires powerful CPU, GPU and a lot of RAM.
 Requirements: CUDA 12.6, Python 3.12, Telegram Bot, torch, opencv-python, ultralytics, Windows 11 (I believe that Win 10 will work)...
 
